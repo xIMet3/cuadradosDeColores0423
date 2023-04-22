@@ -1,0 +1,56 @@
+.cuadrado1, .cuadrado2, .cuadrado3, .cuadrado4 {
+
+    height: 10em;
+    width: 10em;
+}
+
+.cuadrado1 {
+
+    background-color: green;
+    border-radius: 10%;
+
+}
+
+.cuadrado2 {
+
+    background-color: blue;
+    border-radius: 10%;
+
+}
+
+.cuadrado2:hover {
+
+    margin-top: -10em;
+    transition: 1s;
+
+
+}
+
+.cuadrado3 {
+
+    background-color: red;
+    border-radius: 10%;
+
+}
+
+.cuadrado3:hover {
+
+    margin-top: -10em;
+    transition: 2s;
+    
+
+}
+
+.cuadrado4 {
+
+    background-color: yellow;
+    border-radius: 10%;
+
+}
+
+.cuadrado4:hover {
+
+    margin-top: -10em;
+    transition: 1s;
+
+}
