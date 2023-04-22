@@ -1,7 +1,7 @@
 .cuadrado1, .cuadrado2, .cuadrado3, .cuadrado4 {
 
-    height: 10em;
-    width: 10em;
+    height: 15em;
+    width: 15em;
 }
 
 .cuadrado1 {
@@ -20,8 +20,8 @@
 
 .cuadrado2:hover {
 
-    margin-top: -10em;
-    transition: 1s;
+    margin-top: -15em;
+    transition: 3s;
 
 
 }
@@ -35,8 +35,8 @@
 
 .cuadrado3:hover {
 
-    margin-top: -10em;
-    transition: 2s;
+    margin-top: -15em;
+    transition: 3s;
     
 
 }
@@ -50,7 +50,7 @@
 
 .cuadrado4:hover {
 
-    margin-top: -10em;
-    transition: 1s;
+    margin-top: -15em;
+    transition: 3s;
 
 }
